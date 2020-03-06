@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "blink", "blink.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adafruit_SSD1306-2.2.0", "Libraries\Adafruit_SSD1306\2.2.0\Adafruit_SSD1306\Adafruit_SSD1306-2.2.0.vcxitems", "{EE45D705-5688-4C14-86BB-DF15118D75E9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adafruit_GFX_Library-1.7.5", "Libraries\Adafruit_GFX_Library\1.7.5\Adafruit_GFX_Library\Adafruit_GFX_Library-1.7.5.vcxitems", "{1535B24D-F7BA-44F1-BDE7-1341771C9149}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DFRobotDFPlayerMini-1.0.3-1.0.3", "Libraries\DFRobotDFPlayerMini-1.0.3\1.0.3\DFRobotDFPlayerMini-1.0.3\DFRobotDFPlayerMini-1.0.3-1.0.3.vcxitems", "{0277C006-6BDB-4F58-84A3-9B7284E621C5}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Libraries\DFRobotDFPlayerMini-1.0.3\1.0.3\DFRobotDFPlayerMini-1.0.3\DFRobotDFPlayerMini-1.0.3-1.0.3.vcxitems*{0277c006-6bdb-4f58-84a3-9b7284e621c5}*SharedItemsImports = 9
+		Libraries\Adafruit_GFX_Library\1.7.5\Adafruit_GFX_Library\Adafruit_GFX_Library-1.7.5.vcxitems*{1535b24d-f7ba-44f1-bde7-1341771c9149}*SharedItemsImports = 9
+		Libraries\Adafruit_GFX_Library\1.7.5\Adafruit_GFX_Library\Adafruit_GFX_Library-1.7.5.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\Adafruit_SSD1306\2.2.0\Adafruit_SSD1306\Adafruit_SSD1306-2.2.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\DFRobotDFPlayerMini-1.0.3\1.0.3\DFRobotDFPlayerMini-1.0.3\DFRobotDFPlayerMini-1.0.3-1.0.3.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\Adafruit_SSD1306\2.2.0\Adafruit_SSD1306\Adafruit_SSD1306-2.2.0.vcxitems*{ee45d705-5688-4c14-86bb-df15118d75e9}*SharedItemsImports = 9
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ED1E592-EC0B-4D9E-AB2B-5C227A7C2DAF}
+	EndGlobalSection
+EndGlobal

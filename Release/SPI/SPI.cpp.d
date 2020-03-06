@@ -1,0 +1,23 @@
+C:\Users\Dmitrii\AppData\Local\Temp\VMBuilds\blink\espressif_lolin32\Release\SPI\SPI.cpp.o: \
+ D:\Documents\Arduino\hardware\espressif\esp32\libraries\SPI\src\SPI.cpp \
+ D:\Documents\Arduino\hardware\espressif\esp32\libraries\SPI\src\SPI.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/stdlib.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/machine/ieeefp.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/_ansi.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/newlib.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/sys/config.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/sys/features.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/esp32/xtensa/config/core-isa.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/sys/reent.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/_ansi.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/sys/_types.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/machine/_types.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/machine/_default_types.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/sys/lock.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/sys/cdefs.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/machine/stdlib.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/alloca.h \
+ D:\Documents\Arduino\hardware\espressif\esp32\variants\lolin32/pins_arduino.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/stdint.h \
+ D:\Documents\Arduino\hardware\espressif\esp32/tools/sdk/include/newlib/sys/_intsup.h \
+ D:\Documents\Arduino\hardware\espressif\esp32\cores\esp32/esp32-hal-spi.h
