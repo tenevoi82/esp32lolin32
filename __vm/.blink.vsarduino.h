@@ -107,5 +107,10 @@ typedef long pthread_cond_t;
 #define noInterrupts() cli()
 
 #include "blink.ino"
+#include "BME.ino"
+#include "Dysplay.ino"
+#include "Player.ino"
+#include "blynk server.ino"
+#include "touch.ino"
 #endif
 #endif

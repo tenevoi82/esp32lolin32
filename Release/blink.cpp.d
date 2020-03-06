@@ -129,6 +129,8 @@ C:\Users\Dmitrii\AppData\Local\Temp\VMBuilds\blink\espressif_lolin32\Release\bli
  D:\Documents\Arduino\hardware\espressif\esp32\cores\esp32/Esp.h \
  D:\Documents\Arduino\hardware\espressif\esp32\cores\esp32/Arduino.h \
  D:\Documents\Arduino\hardware\espressif\esp32\variants\lolin32/pins_arduino.h \
+ D:\Documents\Arduino\libraries\BME280\src/BME280I2C.h \
+ D:\Documents\Arduino\libraries\BME280\src/BME280.h \
  D:\Documents\Arduino\blink\Libraries\DFRobotDFPlayerMini-1.0.3\1.0.3\DFRobotDFPlayerMini-1.0.3/DFRobotDFPlayerMini.h \
  D:\Documents\Arduino\blink\Libraries\Adafruit_SSD1306\2.2.0\Adafruit_SSD1306/Adafruit_SSD1306.h \
  D:\Documents\Arduino\hardware\espressif\esp32\libraries\Wire\src/Wire.h \
@@ -140,13 +142,20 @@ C:\Users\Dmitrii\AppData\Local\Temp\VMBuilds\blink\espressif_lolin32\Release\bli
  D:\Documents\Arduino\hardware\espressif\esp32\cores\esp32/Print.h \
  D:\Documents\Arduino\blink\Libraries\Adafruit_GFX_Library\1.7.5\Adafruit_GFX_Library/gfxfont.h \
  D:\Documents\Arduino\libraries\BME280\src/EnvironmentCalculations.h \
- D:\Documents\Arduino\libraries\BME280\src/BME280SpiSw.h \
- D:\Documents\Arduino\libraries\BME280\src/BME280.h \
- D:\Documents\Arduino\libraries\BME280\src/BME280Spi.h \
- D:\Documents\Arduino\libraries\BME280\src/BME280I2C_BRZO.h \
- D:\Documents\Arduino\libraries\BME280\src/BME280I2C.h \
- D:\Documents\Arduino\libraries\BME280\src/BME280I2C.h \
- D:\Documents\Arduino\libraries\BME280\src/BME280.h \
+ D:\Documents\Arduino\libraries\Blynk\src/BlynkSimpleEsp32.h \
+ D:\Documents\Arduino\libraries\Blynk\src/BlynkApiArduino.h \
+ D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkApi.h \
+ D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkConfig.h \
+ D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkDetectDevice.h \
+ D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkDebug.h \
+ D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkParam.h \
+ D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkTimer.h \
+ D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkHandlers.h \
+ D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkProtocolDefs.h \
+ D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkProtocol.h \
+ D:\Documents\Arduino\libraries\Blynk\src/utility/BlynkUtility.h \
+ D:\Documents\Arduino\libraries\Blynk\src/Adapters/BlynkArduinoClient.h \
+ D:\Documents\Arduino\hardware\espressif\esp32\cores\esp32/Client.h \
  D:\Documents\Arduino\hardware\espressif\esp32\libraries\WiFi\src/WiFi.h \
  D:\Documents\Arduino\hardware\espressif\esp32\cores\esp32/IPv6Address.h \
  D:\Documents\Arduino\hardware\espressif\esp32\libraries\WiFi\src/WiFiType.h \
@@ -190,26 +199,11 @@ C:\Users\Dmitrii\AppData\Local\Temp\VMBuilds\blink\espressif_lolin32\Release\bli
  D:\Documents\Arduino\hardware\espressif\esp32\libraries\WiFi\src/WiFiAP.h \
  D:\Documents\Arduino\hardware\espressif\esp32\libraries\WiFi\src/WiFiScan.h \
  D:\Documents\Arduino\hardware\espressif\esp32\libraries\WiFi\src/WiFiClient.h \
- D:\Documents\Arduino\hardware\espressif\esp32\cores\esp32/Client.h \
  D:\Documents\Arduino\hardware\espressif\esp32\libraries\WiFi\src/WiFiServer.h \
  D:\Documents\Arduino\hardware\espressif\esp32\cores\esp32/Server.h \
  D:\Documents\Arduino\hardware\espressif\esp32\libraries\WiFi\src/WiFiUdp.h \
  D:\Documents\Arduino\hardware\espressif\esp32\cores\esp32/Udp.h \
  D:\Documents\Arduino\hardware\espressif\esp32\cores\esp32/cbuf.h \
- D:\Documents\Arduino\hardware\espressif\esp32\libraries\WiFi\src/WiFiClient.h \
- D:\Documents\Arduino\libraries\Blynk\src/BlynkSimpleEsp32.h \
- D:\Documents\Arduino\libraries\Blynk\src/BlynkApiArduino.h \
- D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkApi.h \
- D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkConfig.h \
- D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkDetectDevice.h \
- D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkDebug.h \
- D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkParam.h \
- D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkTimer.h \
- D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkHandlers.h \
- D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkProtocolDefs.h \
- D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkProtocol.h \
- D:\Documents\Arduino\libraries\Blynk\src/utility/BlynkUtility.h \
- D:\Documents\Arduino\libraries\Blynk\src/Adapters/BlynkArduinoClient.h \
  D:\Documents\Arduino\libraries\Blynk\src/BlynkWidgets.h \
  D:\Documents\Arduino\libraries\Blynk\src/WidgetLED.h \
  D:\Documents\Arduino\libraries\Blynk\src/Blynk/BlynkWidgetBase.h \
@@ -220,4 +214,10 @@ C:\Users\Dmitrii\AppData\Local\Temp\VMBuilds\blink\espressif_lolin32\Release\bli
  D:\Documents\Arduino\libraries\Blynk\src/utility/BlynkDateTime.h \
  D:\Documents\Arduino\libraries\Blynk\src/WidgetTable.h \
  D:\Documents\Arduino\libraries\Blynk\src/WidgetGPS.h \
- D:\Documents\Arduino\libraries\Blynk\src/WidgetMap.h
+ D:\Documents\Arduino\libraries\Blynk\src/WidgetMap.h \
+ D:\Documents\Arduino\hardware\espressif\esp32\libraries\WiFi\src/WiFiClient.h \
+ D:\Documents\Arduino\libraries\BME280\src/BME280SpiSw.h \
+ D:\Documents\Arduino\libraries\BME280\src/BME280Spi.h \
+ D:\Documents\Arduino\libraries\BME280\src/BME280I2C_BRZO.h \
+ D:\Documents\Arduino\libraries\BME280\src/BME280I2C.h \
+ D:\Documents\Arduino\libraries\BME280\src/BME280.h

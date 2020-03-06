@@ -16,6 +16,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="blink.ino" />
+    <None Include="Player.ino" />
+    <None Include="Dysplay.ino" />
+    <None Include="blynk server.ino" />
+    <None Include="touch.ino" />
+    <None Include="BME.ino" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.blink.vsarduino.h">
